@@ -8,7 +8,7 @@ console.log("helloworld");
 var st = "hey world";
 console.log(st);
 
-var someNumber = 47;
+var someNumber = 420;
 console.log(someNumber);
 
 // document.getElementById("someText").innerHTML = st;
